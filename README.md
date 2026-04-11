@@ -18,6 +18,10 @@ Installation:
    - @react-navigation/native
    - @react-navigation/bottom-tabs
    - react-native-qrcode-svg
+Scan qr Code:
+
+
+
 
 Author:
 Alina Mubarik
