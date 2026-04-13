@@ -19,6 +19,7 @@ Installation:
    - @react-navigation/bottom-tabs
    - react-native-qrcode-svg
 Scan qr Code:
+https://qrco.de/bgjkoz
 
 
 
